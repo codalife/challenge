@@ -159,3 +159,5 @@ def answer(a):
   final.append(denominator)
 
   return final
+
+# https://sskaje.me/2017/05/googles-foo-bar-doomsday-fuel/
